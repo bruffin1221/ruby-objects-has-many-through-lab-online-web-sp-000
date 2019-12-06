@@ -21,4 +21,7 @@ class Patient
     Appointment.new(date, self, doctor)
   end
 
+  def doctors
+    appointment
+binding.pry
 end
