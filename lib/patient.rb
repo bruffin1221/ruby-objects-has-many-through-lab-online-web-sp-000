@@ -25,3 +25,5 @@ class Patient
     appointment
 binding.pry
 end
+
+end
